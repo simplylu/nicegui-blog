@@ -1,4 +1,5 @@
 # NiceBlog - A simple sample blog application using NiceGUI
+![screenshot of the blog](sample.png)
 This is just a simple explanation on how to work with this piece of NiceGUI code. Using markdown and NiceGUI it is easy to create a simple blog in less time. The focus was on simplicity, not design. So just change the color theme in the `.env` file or the tailwind classes in the code itself. You may not touch the logic on how to parse Posts into the system, as it is easy to break things here. Everything else should be self explanatory and is no magic, since every information that was needed to create this was taken from official NiceGUI samples or the NiceGUI documentation.
 
 ## Create a blog post
